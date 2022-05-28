@@ -1,0 +1,1 @@
+kaggle datasets download -d kartik2112/fraud-detection
